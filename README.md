@@ -1,3 +1,4 @@
+## "Be a purist"
 #### Hi there 👋 I'm Jiaming
 ##### 🔭 I’m currently studying at ECNU
 ##### 🌱 I’m currently learning Software Engineering
