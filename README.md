@@ -1,4 +1,4 @@
-#### 👋 I'm Jiaming, a [Software Engineer](https://www.jiaaming.cn/), [Film Photographer](https://www.instagram.com/jiaming_photos/), ~~[Magician](https://www.bilibili.com/video/BV1dv411i7jd/?spm_id_from=333.999.0.0) and [Digital Drawing Enthusiast](https://www.pixiv.net/users/32348753)~~.
+#### 👋 I'm Jiaming, a [Software Engineer](https://www.jiaaming.cn/), [Film Photographer](https://unsplash.com/@jamesliu607), ~~[Magician](https://www.bilibili.com/video/BV1dv411i7jd/?spm_id_from=333.999.0.0) and [Digital Drawing Enthusiast](https://www.pixiv.net/users/32348753)~~.
 #### 👀 Seeking a **Full-Time SWE Position** in **Vancouver (2026)**, with interests in **Full-stack Development**, **AI**, and **Blockchain**.  
 
 - **Amazon** – SWE Intern, Vancouver (Summer 2025)  
