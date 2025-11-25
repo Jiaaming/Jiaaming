@@ -3,7 +3,3 @@
 - **AWS** – SWE Intern, Vancouver (summer 2025)  
 - **Microsoft** – SWE Intern, Shanghai (summer 2024)  
 - **Ericsson** – SWE Intern, Shanghai (summer 2023)
-  
-| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=Jiaaming&count_private=true" alt="Jiaming's github stats" /></a> |  <a><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Jameson&langs_count=7" alt="Jiaming's github stats" /></a> |
-|--------------------------------------------------------------------------------------------------------------------------------------------------| ------------- |
-
